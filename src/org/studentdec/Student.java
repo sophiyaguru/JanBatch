@@ -4,6 +4,7 @@ public class Student {
 
 	private void studentName() {
 		System.out.println("ajithkumar");
+		System.out.println("345")
 	}
 	private void studentId() {
 		System.out.println("456");
