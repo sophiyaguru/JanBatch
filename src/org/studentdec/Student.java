@@ -11,6 +11,7 @@ public class Student {
 		System.out.println("456");
 		System.out.println("100");
 		System.out.println("200");
+		System.out.println("300");
 	}
 	//main method
 	public static void main(String[] args){
