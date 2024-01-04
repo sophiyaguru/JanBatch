@@ -10,6 +10,7 @@ public class Student {
 	private void studentId() {
 		System.out.println("456");
 		System.out.println("100");
+		System.out.println("200");
 	}
 	//main method
 	public static void main(String[] args){
